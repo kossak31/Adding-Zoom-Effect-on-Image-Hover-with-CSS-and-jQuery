@@ -20,7 +20,7 @@ img.zoom {
 }
 ```
 
-```
+```javascript
 <script>
 $(document).ready(function(){
     $('.zoom').hover(function() {
